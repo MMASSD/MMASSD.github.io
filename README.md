@@ -1,4 +1,4 @@
-# MMASSD.github.io
+# MMASSD
 
 Site web  https://mmassd.github.io
 
